@@ -13,4 +13,6 @@ rockey
 
   전체 node 적용
 
-  
+3. configmap harbor-core-envvars EXT_ENDPOINT https://core.harbor.domain:xxx
+
+
